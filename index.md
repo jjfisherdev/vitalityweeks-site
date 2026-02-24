@@ -22,6 +22,11 @@ Vitality Weeks is an iOS app that shows your life as a grid of weeks. Track pers
 
 If you have questions, feedback, or need help, please contact us at [jjhlee92@gmail.com](mailto:jjhlee92@gmail.com).
 
-## Links
+## Legal
 
 - [Privacy Policy](privacy)
+- [Terms of Use](terms)
+
+---
+
+Copyright 2026 JJ Fisher. All rights reserved.
