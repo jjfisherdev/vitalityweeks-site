@@ -21,7 +21,7 @@ You may not copy, modify, distribute, sell, lease, sublicense, or create derivat
 
 ## 3. Content and Accuracy Disclaimer
 
-The App displays biographical and historical facts about public figures for informational and entertainment purposes only. This content is compiled from publicly available sources and is presented as general knowledge.
+The App displays biographical and historical facts about public figures for informational and entertainment purposes only. This content is compiled from publicly available sources and is presented as general knowledge. All content, design, and functionality of this App were independently developed. The concept of visualizing time in weekly intervals is a common mathematical representation not exclusive to any single source.
 
 **We make no representations or warranties regarding the accuracy, completeness, reliability, or timeliness of any content displayed in the App.** Content is not endorsed by, affiliated with, or sponsored by any individual, estate, or organization referenced therein. Any resemblance to inaccurate portrayals is unintentional.
 

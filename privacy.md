@@ -11,7 +11,7 @@ This privacy policy describes how Vitality Weeks ("the App"), developed by JJ Fi
 
 ## Data Storage
 
-All data you enter into Vitality Weeks is stored locally on your device. This includes your birthdate, milestones, notification preferences, and theme settings. Your data never leaves your device and is never transmitted to any server.
+All data you enter into Vitality Weeks is stored locally on your device. This includes your birth date, profile name, personal milestones (titles, dates, and optional notes), notification preferences, theme and language settings, selected vitality lanes, and custom lifespan setting. Your data never leaves your device and is never transmitted to any server.
 
 ## Data Collection
 
@@ -31,11 +31,31 @@ Because all data is stored locally on your device, the security of your data dep
 
 ## Children's Privacy
 
-The App does not knowingly collect personal information from children under the age of 13 or any other age group. Since the App collects no data from any user, it is compliant with the Children's Online Privacy Protection Act (COPPA) and similar regulations.
+The App is intended for users aged 13 and older. We do not knowingly allow users under the age of 13 to create profiles. If you are under 13, please do not use this App. Since the App collects no data from any user, it is compliant with the Children's Online Privacy Protection Act (COPPA) and similar regulations.
 
 ## Data Deletion
 
 Since all data is stored locally on your device, you can delete all App data at any time by deleting the App from your device. We retain no data on any server.
+
+## In-App Purchases
+
+The App offers optional in-app purchases processed entirely by Apple through the App Store. We do not collect, store, or have access to your payment information. All purchase transactions are governed by Apple's Terms and Conditions and Apple's Privacy Policy.
+
+## Device Backups
+
+Your device may include App data in iCloud or local backups as part of the iOS backup process. These backups are managed by Apple and subject to Apple's Privacy Policy. We do not control or have access to your backup data.
+
+## Diagnostics and Crash Data
+
+Apple may collect anonymized crash logs and performance data as part of the App Store ecosystem. This data is aggregated and anonymized by Apple and cannot be used to identify individual users. We do not operate any independent crash reporting or analytics services.
+
+## California Residents (CCPA/CPRA)
+
+We do not sell, share, or disclose your personal information to third parties for monetary or other valuable consideration. Because we collect no personal data, there is no data to sell or share.
+
+## European Users (GDPR)
+
+If you are located in the European Economic Area or United Kingdom, you have the right to access, correct, delete, or port your personal data. Since all data is stored locally on your device and we have no access to it, you exercise these rights directly through your device by modifying or deleting the App.
 
 ## Limitation of Liability
 
