@@ -1,3 +1,6 @@
 title: Vitality Weeks
 description: Your life, one week at a time.
 theme: minima
+# Pinned so canonical and feed links never follow the account name.
+url: https://jjfisherdev.github.io
+baseurl: /vitalityweeks-site
